@@ -1,12 +1,10 @@
-# Developer Resources!
+<div> <img src="icon.jpg" height="60"> <h1>Developer Resources!</h1> </div>
 
 There is an abundance of services available to developers - so much so that it can be hard to remember or discover them all!
 
-This is a collection of resources at your fingertips curated specifically for the Global Developer Challenge contesants. Check them out and see if they can be of use!
+This is a collection of resources at your fingertips curated specifically for the Global Developer Challenge contestants. Check them out and see if they can be of use!
 
 *NEW (May 30):* Check out tools to [generate neural network diagrams](http://alexlenail.me/NN-SVG/index.html), [build 8-bit style logos](https://textcraft.net/), and use [popular brand icons](https://simpleicons.org/) and other [vector icon packs](https://fontawesome.com/).
-
-<img src="icon.jpg" width="20%">
 
 Credit belongs to the respective contributors for their listings.
 
@@ -22,13 +20,11 @@ Table of Contents
    * [Data Visualization on Maps](#data-visualization-on-maps)
    * [DBaaS](#dbaas)
    * [Design and UI](#design-and-ui)
-   * [DNS](#dns)
    * [Email](#email)
    * [Font](#font)
    * [Forms](#forms)
    * [IaaS](#iaas)
    * [IDE and Code Editing](#ide-and-code-editing)
-   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
    * [Messaging and Streaming](#messaging)
    * [Miscellaneous](#miscellaneous)
    * [Other Free Resources](#other-free-resources)
@@ -492,32 +488,6 @@ Table of Contents
   * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
   * [Versoly](https://versoly.com/) — SaaS focussed website builder - unlimited websites, 70+ blocks, 5 templates, custom CSS, favicon, SEO and forms. No custom domain.
 
-## DNS
-
-  * [1984.is](https://www.1984.is/product/freedns/) — Free DNS service with API, and lots of other free DNS features included.
-  * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
-  * [Cloudflare](https://www.cloudflare.com/) - Free DNS.  Unlimited number of domains.
-  * [cloudns.net](https://www.cloudns.net/) — Free DNS hosting up to 1 domain with 50 records
-  * [dns.he.net](https://dns.he.net/) — Free DNS hosting service with Dynamic DNS Support
-  * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
-  * [duckdns.org](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-  * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
-  * [fosshost.org](https://fosshost.org/) - Free open source hosting VPS, web, storage and mirror hosting 
-  * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
-  * [freenom.com](https://freenom.com/) — Free domain provider. Get FQDN for free.
-  * [luadns.com](https://www.luadns.com/) — Free DNS hosting, 3 domains, all features with reasonable limits
-  * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
-  * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
-  * [ns1.com](https://ns1.com/) — Data Driven DNS, automatic traffic management, 500k free queries
-  * [pointhq.com](https://pointhq.com/developer) — Free DNS hosting on Heroku.
-  * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
-  * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
-  * [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
-  * [zilore.com](https://zilore.com/en/dns) — Free DNS hosting.
-  * [zoneedit.com](https://www.zoneedit.com/free-dns/) — Free DNS hosting with Dynamic DNS Support.
-  * [zonewatcher.com](https://zonewatcher.com) — Automatic backups and DNS change monitoring. 1 domain free
-  * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
-
 ## IaaS
 
   * [backblaze.com](https://www.backblaze.com/b2/) — Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
@@ -541,56 +511,6 @@ Table of Contents
    * [Quickmetrics](https://www.quickmetrics.io/) — Timeseries database with dashboard included, free up to 10,000 events/day and total of 5 metrics.
    * [restdb.io](https://restdb.io/) - a fast and simple NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries) and an efficient multi-user admin UI for working with data. Free plan allows 3 users, 2500 records and 1 API requests per second.
    * [Unbounded](https://www.unbounded.cloud/) - a NoSQL DBaaS which uses Javascript as a query language. Free tier allows 50,000 reads and writes per month, forever.
-
-## Issue Tracking and Project Management
-
-   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
-   * [asana.com](https://asana.com/) — Free for private project with collaborators
-   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
-   * [Basecamp](https://basecamp.com/personal) - To-do lists, milestone management, forum-like messaging, file sharing, and time tracking. Up to 3 projects, 20 users, and 1GB of storage space.
-   * [bitrix24.com](https://www.bitrix24.com/) — Free intranet and project management tool
-   * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
-   * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
-   * [Cloudcraft](https://cloudcraft.co/) — Design a professional architecture diagram in minutes with the Cloudcraft visual designer, optimized for AWS with smart components that show live data too.
-   * [Clubhouse](https://clubhouse.io/) - Project management platform. Free for up to 10 users forever
-   * [Confluence](https://www.atlassian.com/software/confluence) - Atlassian's content collaboration tool used to help teams collaborate and share knowledge efficiently. Free plan up to 10 users.
-   * [contriber.com](https://www.contriber.com/) — Customizable project management platform, free starter plan, 5 workspaces
-   * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
-   * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
-   * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
-   * [gliffy.com](https://www.gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
-   * [GraphQL Inspector](https://github.com/marketplace/graphql-inspector) - GraphQL Inspector ouputs a list of changes between two GraphQL schemas. Every change is precisely explained and marked as breaking, non-breaking or dangerous.
-   * [huboard.com](https://huboard.com/) — Instant project management for your GitHub issues, free for Open Source
-   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
-   * [Ilograph](https://www.ilograph.com/)  — interactive diagrams that allow users to see their infrastructure from multiple perspectives and levels of detail. Diagrams can be expressed in code. Free tier has unlimited private diagrams with up to 3 viewers.
-   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan up to 10 users.
-   * [kanbanflow.com](https://kanbanflow.com/) — Board-based project management. Free, premium version with more options
-   * [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. Free, paid plans with more options
-   * [kanrails.com](https://kanrails.com/) — Kanban board-based project management. Free for 3 collaborators, 2 projects and 5 tracks. Paid plans available for unlimited collaborators, projects and tracks.
-   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports and more. Free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer to not leave your file publicly online (upload, edit, download, discard).
-   * [LeanBoard](https://www.leanboard.io) — Collaborative whiteboard with sticky notes for your GitHub issues (Useful for Example Mapping and other techniques)
-   * [MeuScrum](https://www.meuscrum.com/en) - Free online scrum tool with kanban board
-   * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) — Free one-year Office 365 E3 subscription for development/testing.
-   * [Ora](https://ora.pm/) - Agile task management & team collaboration. Free for up to 3 users and files are limited to 10 MB.
-   * [pivotaltracker.com](https://www.pivotaltracker.com/) — Free for unlimited public projects and two private projects with 3 total active users (read-write) and unlimited passive users (read-only).
-   * [plan.io](https://plan.io/) — Project Management with Repository Hosting and more options. Free for 2 users with 10 customers and 500MB Storage
-   * [planitpoker.com](https://www.planitpoker.com/) — Free online planning poker (estimation tool)
-   * [senseitool.com](https://www.senseitool.com/) — An agile retrospective tool - Free.
-   * [SpeedBoard](https://speedboard.app) - Board for Agile and Scrum retrospectives - Free.
-   * [Tadum](https://tadum.app) - Meeting agenda and minutes app designed for recurring meetings, free for teams up to 10
-   * [taiga.io](https://taiga.io/) — Project management platform for startups and agile developers, free for Open Source
-   * [targetprocess.com](https://www.targetprocess.com/) — Visual project management, from Kanban and Scrum to almost any operational process. Free for unlimited users, up to 1,000 data entities {[more details](https://www.targetprocess.com/pricing/)}
-   * [taskade.com](https://www.taskade.com/) — Real-time collaborative task lists and outlines for teams
-   * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
-   * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
-   * [todoist.com](https://todoist.com/) — Collaborative and individual task management. Free, Premium and Team plans are available. Discounts provided for eligible users.
-   * [trello.com](https://trello.com/) — Board-based project management. Unlimited Personal Boards, 10 Team Boards.
-   * [ubertesters.com](https://ubertesters.com/) — Test platform, integration and crowdtesters, 2 projects, 5 members
-   * [vivifyscrum.com](https://www.vivifyscrum.com/) — Free tool for Agile project management. Scrum Compatible
-   * [YouTrack](https://www.jetbrains.com/youtrack/buy/#edition=incloud) — Free hosted YouTrack (InCloud) for FOSS projects, private projects (free for 3 users). Includes time tracking and agile boards
-   * [zenhub.io](https://www.zenhub.io/) — The only project management solution inside GitHub. Free for public repos, OSS and nonprofit organizations
-   * [zepel.io](https://zepel.io/) - The project management tool that lets you plan features, collaborate across disciplines, and build software together. Free up to 5 members. No feature restrictions.
-   * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
 
 ## Storage and Media Processing
 
