@@ -38,7 +38,6 @@ Table of Contents
    * [Security and PKI](#security-and-pki)
    * [Source Code Repos](#source-code-repos)
    * [Storage and Media Processing](#storage-and-media-processing)
-   * [Testing](#testing)
    * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
    * [Translation Management](#translation-management)
    * [Web Hosting](#web-hosting)
