@@ -6,6 +6,8 @@ This is a collection of resources at your fingertips curated specifically for th
 
 *NEW (May 30):* Check out tools to [generate neural network diagrams](http://alexlenail.me/NN-SVG/index.html), [build 8-bit style logos](https://textcraft.net/), and use [popular brand icons](https://simpleicons.org/) and other [vector icon packs](https://fontawesome.com/).
 
+![icon](icon.jpg)
+
 Credit belongs to the respective contributors for their listings.
 
 Table of Contents
